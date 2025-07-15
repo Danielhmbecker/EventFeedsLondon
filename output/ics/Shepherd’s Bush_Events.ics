@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:32b52758-d6a8-4080-b28e-7f96f1024b48
+UID:de036585-ee32-402b-af75-02d4555fba47
 SUMMARY:Peter Murphy
 DTSTART:20250117T190000
 DTEND:20250117T193000
@@ -12,7 +12,7 @@ URL:https://www.ticketmaster.co.uk/peter-murphy-london-17-01-2025/event/230062FA
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:cc2c646b-003c-4861-941a-4d935a757359
+UID:fa7fb77b-b101-492f-88f2-d0476de3b0c8
 SUMMARY:Slimane
 DTSTART:20250125T190000
 DTEND:20250125T200000
@@ -22,7 +22,7 @@ URL:https://www.ticketmaster.co.uk/slimane-london-25-01-2025/event/350061A4A27A4
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:5ceb89df-cab0-4891-9e7a-6127b07f90f8
+UID:3343d4e5-1ea7-4fee-b58e-27136c1d0e56
 SUMMARY:Omar Rudberg
 DTSTART:20250205T190000
 DTEND:20250205T200000
@@ -32,7 +32,7 @@ URL:https://www.ticketmaster.co.uk/omar-rudberg-london-05-02-2025/event/350062B9
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:e77d1f3f-77c6-447f-b405-46f232252499
+UID:1bbac46d-0faf-4b81-96e7-6a309693bbde
 SUMMARY:KAWALA
 DTSTART:20250213T190000
 DTEND:20250213T200000
@@ -42,7 +42,7 @@ URL:https://www.ticketmaster.co.uk/kawala-london-13-02-2025/event/230061FBD1BC1A
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c67ab835-2fea-485a-832c-6bc95bc30de3
+UID:5dc0a2d9-dc68-48ca-927f-e36252938088
 SUMMARY:Ben Barnes
 DTSTART:20250214T190000
 DTEND:20250214T193000
@@ -52,7 +52,7 @@ URL:https://www.ticketmaster.co.uk/ben-barnes-london-14-02-2025/event/23006203D1
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:3cb59526-7b7d-4cd5-a59f-1e568f31388e
+UID:293db0f5-2866-4412-8be3-8224cef3e9dd
 SUMMARY:Warren Zeiders
 DTSTART:20250215T190000
 DTEND:20250215T200000
@@ -62,7 +62,7 @@ URL:https://www.ticketmaster.co.uk/warren-zeiders-london-15-02-2025/event/350062
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:88a0eaf9-e3fe-4182-97a9-a3d5ff2d3ceb
+UID:e863288a-97da-42ec-9474-256eb2da9f88
 SUMMARY:Carly Pearce
 DTSTART:20250219T190000
 DTEND:20250219T193000
@@ -72,7 +72,7 @@ URL:https://www.ticketmaster.co.uk/carly-pearce-london-19-02-2025/event/3E00628A
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:3d269889-5643-4cea-8528-96d093b5ca05
+UID:77f516f7-3060-4d20-b492-2411108353fe
 SUMMARY:The Lottery Winners
 DTSTART:20250223T190000
 DTEND:20250223T193000
@@ -82,7 +82,7 @@ URL:https://www.ticketmaster.co.uk/lottery-winners-london-23-02-2025/event/23006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:0d990e86-dfb7-49c1-92ce-448d376348fb
+UID:4229e8c9-7cf7-4d29-bf2e-fb0c1deac1a0
 SUMMARY:Kasabian
 DTSTART:20250225T190000
 DTEND:20250225T200000
@@ -92,7 +92,7 @@ URL:https://www.ticketmaster.co.uk/kasabian-london-25-02-2025/event/23006110F0DC
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:99922b93-6243-41be-9fb1-99144cb0ed83
+UID:fe2dbb9b-b9c1-4bbf-91f2-6de8c492ff67
 SUMMARY:Natalie Jane
 DTSTART:20250301T190000
 DTEND:20250301T193000
@@ -102,7 +102,7 @@ URL:https://www.ticketmaster.co.uk/natalie-jane-london-01-03-2025/event/350062FE
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:69dd0764-6b7a-471f-9b98-f4f48cc96405
+UID:f8316b1d-d20a-4208-87c4-681079c16821
 SUMMARY:Franz Ferdinand
 DTSTART:20250305T190000
 DTEND:20250305T193000
@@ -112,7 +112,7 @@ URL:https://www.ticketmaster.co.uk/franz-ferdinand-london-05-03-2025/event/23006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:433ff637-1644-425a-8940-08d92e892e54
+UID:2c502719-ba3d-494a-96ab-cb47c367bf87
 SUMMARY:Franz Ferdinand
 DTSTART:20250306T190000
 DTEND:20250306T193000
@@ -122,7 +122,7 @@ URL:https://www.ticketmaster.co.uk/franz-ferdinand-london-06-03-2025/event/35006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:dba3089d-5bc7-4aec-bd19-6901c5ae8beb
+UID:0749bd68-b885-406e-99f7-ba295b61b563
 SUMMARY:Zakk Sabbath
 DTSTART:20250307T190000
 DTEND:20250307T200000
@@ -132,7 +132,7 @@ URL:https://www.ticketmaster.co.uk/zakk-sabbath-london-07-03-2025/event/2300629C
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:14943963-2cc3-4d34-8f70-bbc6d0a2ce12
+UID:4f4280f7-dd98-4651-8b88-fe48bae58d5f
 SUMMARY:Stonebwoy
 DTSTART:20250308T190000
 DTEND:20250308T200000
@@ -142,7 +142,7 @@ URL:https://www.ticketmaster.co.uk/stonebwoy-london-08-03-2025/event/3E0062ADE75
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:e3d75ada-bb59-4be2-ada0-63e8826554ff
+UID:336e57f0-2d61-478f-badd-5468f4dcddf3
 SUMMARY:Doves
 DTSTART:20250313T190000
 DTEND:20250313T200000
@@ -152,7 +152,7 @@ URL:https://www.ticketmaster.co.uk/doves-london-13-03-2025/event/230062B2F760814
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:92b5ac0c-da21-4ba9-b1b3-86d9b66c0b59
+UID:47f0432e-3683-446e-bcd4-b975b662e64a
 SUMMARY:Descendents
 DTSTART:20250315T183000
 DTEND:20250315T190000
@@ -162,7 +162,7 @@ URL:https://www.ticketmaster.co.uk/descendents-london-15-03-2025/event/350062C40
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:19054325-89df-456c-a7f0-40c735982eb7
+UID:7994a6c2-2ed8-4386-97c2-955b7337d754
 SUMMARY:The Skints
 DTSTART:20250316T183000
 DTEND:20250316T190000
@@ -172,7 +172,7 @@ URL:https://www.ticketmaster.co.uk/the-skints-london-16-03-2025/event/230062D518
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d32cb626-8d23-451c-864a-15d70f85fda2
+UID:3c7a5c8b-0258-48ce-bed2-3dc7661a8cc0
 SUMMARY:Lauren Mayberry
 DTSTART:20250326T190000
 DTEND:20250326T193000
@@ -182,7 +182,7 @@ URL:https://www.ticketmaster.co.uk/lauren-mayberry-london-26-03-2025/event/35006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:4419fe20-e650-4086-8f34-99b3acf77507
+UID:9bf407b0-d5aa-47e3-8c7a-e9261b98ffac
 SUMMARY:Dayglow
 DTSTART:20250328T190000
 DTEND:20250328T200000
@@ -192,7 +192,7 @@ URL:https://www.ticketmaster.co.uk/dayglow-london-28-03-2025/event/230062F7BA9B1
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:8004ce9f-1610-415e-8ad4-06ad4d895e05
+UID:265a2af5-8db2-4679-8168-e7523781b853
 SUMMARY:Hot 8 Brass Band
 DTSTART:20250329T190000
 DTEND:20250329T200000
@@ -202,7 +202,7 @@ URL:https://www.ticketmaster.co.uk/hot-8-brass-band-london-29-03-2025/event/3E00
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:6ea49ec5-672f-404d-94ad-aa81aec96d60
+UID:f46ea58d-f0e1-4e5b-bc9a-f0f88fb6543d
 SUMMARY:Teedra Moses
 DTSTART:20250330T190000
 DTEND:20250330T200000
@@ -212,7 +212,7 @@ URL:https://www.ticketmaster.co.uk/teedra-moses-london-30-03-2025/event/35006319
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:00508bfd-1d21-4ad4-b6a4-dae86188eb79
+UID:c26ebca2-a3ef-4a1b-b4f1-03d966c7a909
 SUMMARY:Deacon Blue
 DTSTART:20250404T190000
 DTEND:20250404T200000
@@ -222,7 +222,7 @@ URL:https://www.ticketmaster.co.uk/deacon-blue-london-04-04-2025/event/2300632AE
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:4256432e-e94b-406f-9ab4-1ceee702d775
+UID:845cb582-813c-40d0-a351-97c3081964c7
 SUMMARY:The Sweet
 DTSTART:20250405T190000
 DTEND:20250405T193000
@@ -232,7 +232,7 @@ URL:https://www.ticketmaster.co.uk/the-sweet-london-05-04-2025/event/3500633BFED
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:366f0885-8a54-4e0f-9902-48b2916fff31
+UID:74247334-a66c-4ba1-bfb5-e29f9b132fd5
 SUMMARY:Eisbrecher
 DTSTART:20250406T190000
 DTEND:20250406T193000
@@ -242,7 +242,7 @@ URL:https://www.ticketmaster.co.uk/eisbrecher-london-06-04-2025/event/2300634D0F
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:8bc7db18-e0c5-4af1-a6b4-2676263be0f4
+UID:8a305e80-9d05-4ace-82ff-c8b5d126308b
 SUMMARY:Ibrahim Maalouf
 DTSTART:20250407T190000
 DTEND:20250407T200000
@@ -252,7 +252,7 @@ URL:https://www.ticketmaster.co.uk/ibrahim-maalouf-london-07-04-2025/event/3E006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:4c442897-c3d9-412c-b8a0-784b15b22eb1
+UID:4e0af461-d979-442f-a5ce-632d3b437a97
 SUMMARY:The Zutons
 DTSTART:20250410T190000
 DTEND:20250410T200000
@@ -262,7 +262,7 @@ URL:https://www.ticketmaster.co.uk/the-zutons-london-10-04-2025/event/3500636F32
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:33639f3f-975d-4d0c-8a36-6fdfe0c31971
+UID:6d4df5af-0be5-4cda-aee1-93fe3dfd86ab
 SUMMARY:J.I.
 DTSTART:20250411T190000
 DTEND:20250411T200000
@@ -272,7 +272,7 @@ URL:https://www.ticketmaster.co.uk/ji-london-11-04-2025/event/2300638F54339D4D
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a5bcbf6e-b8c8-4b93-9bb4-6f5ca825d106
+UID:00def66a-a8ef-4c75-820f-4f37fc4be96f
 SUMMARY:Jim Bob
 DTSTART:20250412T190000
 DTEND:20250412T200000
@@ -282,7 +282,7 @@ URL:https://www.ticketmaster.co.uk/jim-bob-london-12-04-2025/event/3500639F6544A
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c50b005a-3fdc-4d0a-99f4-9f9e493e4688
+UID:55ff80b6-c071-4136-b11c-194101cf25b9
 SUMMARY:Manic Street Preachers
 DTSTART:20250419T190000
 DTEND:20250419T193000
@@ -292,7 +292,7 @@ URL:https://www.ticketmaster.co.uk/manic-street-preachers-london-19-04-2025/even
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:bbba6923-f315-40e9-a5ab-e310a1a8fd64
+UID:2d236d73-89b5-4d41-9b46-451bd614598c
 SUMMARY:Beatenberg
 DTSTART:20250425T190000
 DTEND:20250425T200000
@@ -302,7 +302,7 @@ URL:https://www.ticketmaster.co.uk/beatenberg-london-25-04-2025/event/3E0063C187
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:18f1e85f-d369-4bfa-a396-77f3a3f2d97c
+UID:a6c6f0df-f655-495f-88d0-3b52fa916d56
 SUMMARY:John Smith
 DTSTART:20250502T190000
 DTEND:20250502T200000
@@ -312,7 +312,7 @@ URL:https://www.ticketmaster.co.uk/john-smith-london-02-05-2025/event/350063D398
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c1e262b6-1526-412a-9134-1697a27cd7e7
+UID:1e0a3bcc-0246-46f2-8640-bda5a0416843
 SUMMARY:Black Sherif
 DTSTART:20250503T190000
 DTEND:20250503T200000
@@ -322,7 +322,7 @@ URL:https://www.ticketmaster.co.uk/black-sherif-london-03-05-2025/event/230063E4
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:ed2cc150-34f0-42c2-863e-24ee686799e8
+UID:4f1a2166-d6cd-4dc6-a654-63bfef0bc382
 SUMMARY:Holy Holy (Tony Visconti & Woody Woodmansey)
 DTSTART:20250515T190000
 DTEND:20250515T193000
@@ -332,7 +332,7 @@ URL:https://www.ticketmaster.co.uk/holy-holy-london-15-05-2025/event/350063F5BA9
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:8427c5d9-2ae8-42ef-9bfc-49f494f65168
+UID:3e0ae8a8-4560-4f6e-8d0d-caa7a3f39275
 SUMMARY:Andy Bell
 DTSTART:20250516T190000
 DTEND:20250516T200000
@@ -342,7 +342,7 @@ URL:https://www.ticketmaster.co.uk/andy-bell-london-16-05-2025/event/23006406CB0
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:50ac697a-66c9-457d-9424-bdc64eae92b9
+UID:d9999173-4112-4830-8f9d-4b77f4b81e8c
 SUMMARY:Andy Grammer
 DTSTART:20250518T190000
 DTEND:20250518T200000
@@ -352,7 +352,7 @@ URL:https://www.ticketmaster.co.uk/andy-grammer-london-18-05-2025/event/3E006417
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:12281026-802a-4401-813a-8695d1828483
+UID:65b4248c-d7e6-46ee-bedc-77bf672f22c2
 SUMMARY:Robin Trower
 DTSTART:20250521T190000
 DTEND:20250521T200000
@@ -362,7 +362,7 @@ URL:https://www.ticketmaster.co.uk/robin-trower-london-21-05-2025/event/35006428
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:7b4ae685-69c6-47c0-8339-9716d2d6187b
+UID:3986b4ac-0745-4b76-904a-e06822a25da3
 SUMMARY:Kassav’
 DTSTART:20250524T190000
 DTEND:20250524T200000
@@ -372,7 +372,7 @@ URL:https://www.ticketmaster.co.uk/kassav-london-24-05-2025/event/23006439FE3CJ7
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:e9d8f035-1997-446f-8c21-7ffa0b3ef538
+UID:2736ad62-f6fe-4aef-90cb-0f19b9f22920
 SUMMARY:Alexandra Kay
 DTSTART:20250529T190000
 DTEND:20250529T200000
@@ -382,7 +382,7 @@ URL:https://www.ticketmaster.co.uk/alexandra-kay-london-29-05-2025/event/3500645
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:da569271-2d61-4f00-a6bc-316d62cd1fd6
+UID:4b52926c-05c2-49d5-8a6c-b62834f0ceb2
 SUMMARY:Shane Smith & The Saints
 DTSTART:20250604T190000
 DTEND:20250604T193000
@@ -392,7 +392,7 @@ URL:https://www.ticketmaster.co.uk/shane-smith-saints-london-04-06-2025/event/23
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:37e37332-130b-423a-b9d8-35184498d1bc
+UID:ef945d39-e284-4e08-870f-987faf6a4765
 SUMMARY:Los Fabulosos Cadillacs
 DTSTART:20250605T190000
 DTEND:20250605T200000
@@ -402,7 +402,7 @@ URL:https://www.ticketmaster.co.uk/los-fabulosos-cadillacs-london-05-06-2025/eve
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:cf207a68-fd26-4b04-93fd-b1f512cad93b
+UID:f3f0a219-e02e-4cea-aba3-752fe000211b
 SUMMARY:Paris Paloma
 DTSTART:20250606T190000
 DTEND:20250606T200000
@@ -412,7 +412,7 @@ URL:https://www.ticketmaster.co.uk/paris-paloma-london-06-06-2025/event/3500648E
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d326cda6-4660-42d2-a8c3-306b7676782f
+UID:419f1ac3-a90e-4490-b80d-f432662b4142
 SUMMARY:Olivia Dean
 DTSTART:20250611T190000
 DTEND:20250611T193000
@@ -422,7 +422,7 @@ URL:https://www.ticketmaster.co.uk/olivia-dean-london-11-06-2025/event/230064AF4
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:aab0011a-cb4d-43b5-97fe-c81f1247357c
+UID:a4ab6df5-be0c-4b9e-a7ed-b95dff464747
 SUMMARY:Savatage
 DTSTART:20250616T190000
 DTEND:20250616T193000
@@ -432,7 +432,7 @@ URL:https://www.ticketmaster.co.uk/savatage-london-16-06-2025/event/350064C0549I
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:dc2ad729-ce53-4918-89fa-0fa66288bd8b
+UID:651df238-cce1-4a8b-a484-983000191639
 SUMMARY:Dethklok
 DTSTART:20250621T190000
 DTEND:20250621T193000
@@ -442,7 +442,7 @@ URL:https://www.ticketmaster.co.uk/dethklok-london-21-06-2025/event/230064D165AJ
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:fc9a81c5-ad8f-4c0f-becc-e167cab4cd4d
+UID:529f0c68-c65c-43c6-9282-97805fbd7866
 SUMMARY:Bright Eyes
 DTSTART:20250625T190000
 DTEND:20250625T200000
@@ -452,7 +452,7 @@ URL:https://www.ticketmaster.co.uk/bright-eyes-london-25-06-2025/event/3E0064E27
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d9d8e3b0-235b-45c1-a3bd-8f6cf60af119
+UID:fcf46dd5-23f0-43dc-a09b-206ba2d0ed1a
 SUMMARY:Live/Wire (AC/DC Show)
 DTSTART:20250627T190000
 DTEND:20250627T200000
@@ -462,7 +462,7 @@ URL:https://www.ticketmaster.co.uk/livewire-acdc-london-27-06-2025/event/350064F
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:97075cc5-39cc-4b0b-9862-bdb96e26f09d
+UID:ef61821e-6256-4dfa-ab74-52783f0c135d
 SUMMARY:Víctor Manuelle
 DTSTART:20250629T190000
 DTEND:20250629T200000
@@ -472,7 +472,7 @@ URL:https://www.ticketmaster.co.uk/victor-manuelle-london-29-06-2025/event/23006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:6c83d813-b162-4d99-93d4-964c5017fbf3
+UID:e4459f1b-2697-46c5-867a-a1dde27052be
 SUMMARY:Black Sherif
 DTSTART:20250704T190000
 DTEND:20250704T200000
@@ -482,7 +482,7 @@ URL:https://www.ticketmaster.co.uk/black-sherif-london-04-07-2025/event/3E006515
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:3e8456f1-88ae-4a6b-ad90-c20fee8941ef
+UID:026ec30d-fcbf-43ad-bc34-ecef6aabb28e
 SUMMARY:Fujii Kaze
 DTSTART:20250706T190000
 DTEND:20250706T193000
@@ -492,7 +492,7 @@ URL:https://www.ticketmaster.co.uk/fujii-kaze-london-06-07-2025/event/23006526BA
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:966e65d6-7dba-4e05-93ca-ae0b27f944fe
+UID:e7cbccb0-817d-468f-84fd-46e4432b7d95
 SUMMARY:Kenny Wayne Shepherd
 DTSTART:20250718T190000
 DTEND:20250718T190000
@@ -502,7 +502,7 @@ URL:https://www.ticketmaster.co.uk/kenny-wayne-shepherd-london-18-07-2025/event/
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d8585873-1606-48e2-bf27-abdebc8825b1
+UID:59553db4-9c73-4cc4-9c85-fcf4fbd20f13
 SUMMARY:Wonho
 DTSTART:20250911T180000
 DTEND:20250911T190000
@@ -512,7 +512,7 @@ URL:https://www.ticketmaster.co.uk/wonho-london-11-09-2025/event/35006789C3GHP0C
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:642a73b0-c186-4c30-ab75-f859b0f2c1b9
+UID:e93796cb-c567-42c6-b8ba-b485fb384437
 SUMMARY:Francois Van Coke
 DTSTART:20250912T190000
 DTEND:20250912T193000
@@ -522,7 +522,7 @@ URL:https://www.ticketmaster.co.uk/francois-van-coke-london-12-09-2025/event/230
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:ec9747f0-b4b0-424b-8fac-efec96f7e30f
+UID:b2e7b82e-7de3-408d-ab62-c08407d20c2a
 SUMMARY:Chicane
 DTSTART:20250913T190000
 DTEND:20250913T200000
@@ -532,7 +532,7 @@ URL:https://www.ticketmaster.co.uk/chicane-london-13-09-2025/event/3E0067ABF5J2R
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:21944c06-6b12-488d-9adc-e9a248844ed9
+UID:e5269382-113d-4672-b6c4-0631070bec16
 SUMMARY:Saint Motel
 DTSTART:20250918T190000
 DTEND:20250918T200000
@@ -542,7 +542,7 @@ URL:https://www.ticketmaster.co.uk/saint-motel-london-18-09-2025/event/350067BC0
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:46d5aec5-dc09-45c9-9f80-d967a1ae46de
+UID:f4376a57-c99a-4093-9c65-e10ffe728112
 SUMMARY:Marina Satti
 DTSTART:20250922T190000
 DTEND:20250922T200000
@@ -552,7 +552,7 @@ URL:https://www.ticketmaster.co.uk/marina-satti-london-22-09-2025/event/230067CD
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:28a684b3-d7ce-465b-aea6-a883d906ec6a
+UID:13c4559b-e1c7-467a-bd4c-b31d31d9cc95
 SUMMARY:esOterica
 DTSTART:20250926T190000
 DTEND:20250926T193000
@@ -562,7 +562,7 @@ URL:https://www.ticketmaster.co.uk/esoterica-london-26-09-2025/event/3E0067DE28M
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a75be6e0-1f67-46a9-a661-df09edbc5e92
+UID:c3b82365-165f-4bae-b407-be796bcce091
 SUMMARY:Varius Manx & Kasia Stankiewicz
 DTSTART:20250927T190000
 DTEND:20250927T200000
@@ -572,7 +572,7 @@ URL:https://www.ticketmaster.co.uk/varius-manx-london-27-09-2025/event/350067EF3
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:b685e80e-45bd-40be-a512-9d58dbb2e7a6
+UID:24909349-f9f9-477b-9886-3fd90fbf4c68
 SUMMARY:Man With A Mission
 DTSTART:20251002T190000
 DTEND:20251002T200000
@@ -582,7 +582,7 @@ URL:https://www.ticketmaster.co.uk/man-with-a-mission-london-02-10-2025/event/23
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:080f58f7-933f-4284-a1eb-76bca3425d55
+UID:3b07004a-6098-4212-9eb4-09ea6a4e9336
 SUMMARY:The 8-Bit Big Band
 DTSTART:20251003T190000
 DTEND:20251003T200000
@@ -592,7 +592,7 @@ URL:https://www.ticketmaster.co.uk/8-bit-big-band-london-03-10-2025/event/350068
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:9f59c262-e760-4b18-8600-231989ed11b3
+UID:492a10db-c23e-418c-b572-e1495aa9388e
 SUMMARY:One Vision of Queen feat. Marc Martel
 DTSTART:20251004T190000
 DTEND:20251004T193000
@@ -602,7 +602,7 @@ URL:https://www.ticketmaster.co.uk/one-vision-queen-london-04-10-2025/event/2300
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:0b47c16d-52fd-4611-a232-18c44e635abd
+UID:fab39d8d-679f-4f04-8fc4-306bc4ff8069
 SUMMARY:Ledisi
 DTSTART:20251009T190000
 DTEND:20251009T200000
@@ -612,7 +612,7 @@ URL:https://www.ticketmaster.co.uk/ledisi-london-09-10-2025/event/350068518DSAZ0
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c13afcd3-ebe5-416f-bd13-c220db35b979
+UID:b22b9f77-8d9a-4f27-8cae-f9a3e853ef3e
 SUMMARY:Blood Incantation
 DTSTART:20251010T183000
 DTEND:20251010T190000
@@ -622,7 +622,7 @@ URL:https://www.ticketmaster.co.uk/blood-incantation-london-10-10-2025/event/230
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:39c20823-801f-4f00-ba99-bd2030d2cd3f
+UID:6ff1c0ad-41a2-4531-8231-130b913b3ab6
 SUMMARY:Nena
 DTSTART:20251011T190000
 DTEND:20251011T200000
@@ -632,7 +632,7 @@ URL:https://www.ticketmaster.co.uk/nena-london-11-10-2025/event/3E006873AFTC12OW
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:ee868540-e1d0-4ec2-a131-275436fa3ce9
+UID:37900e5b-5739-4c14-bfef-63960f320b01
 SUMMARY:Shayne Ward
 DTSTART:20251016T190000
 DTEND:20251016T200000
@@ -642,7 +642,7 @@ URL:https://www.ticketmaster.co.uk/shayne-ward-london-16-10-2025/event/35006884C
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:44ad7ab7-fecd-4e38-8364-07e7c48158bb
+UID:403ad019-e207-4448-ac53-35cb6f52cccd
 SUMMARY:EMF & Jesus Jones
 DTSTART:20251017T190000
 DTEND:20251017T193000
@@ -652,7 +652,7 @@ URL:https://www.ticketmaster.co.uk/emf-jesus-jones-london-17-10-2025/event/23006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:4f6cbff1-1424-4dfa-8916-46fcb9a399e9
+UID:fcdd9403-aa21-4a76-8ff7-e6850950bf75
 SUMMARY:Glenn Hughes
 DTSTART:20251018T190000
 DTEND:20251018T200000
@@ -662,7 +662,7 @@ URL:https://www.ticketmaster.co.uk/glenn-hughes-london-18-10-2025/event/350068A6
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:30ad6384-f837-4a2f-a9fa-edd5e4c7d90f
+UID:02120b03-8633-40aa-9bd8-67c436bc0959
 SUMMARY:Xavier Rudd
 DTSTART:20251021T190000
 DTEND:20251021T200000
@@ -672,7 +672,7 @@ URL:https://www.ticketmaster.co.uk/xavier-rudd-london-21-10-2025/event/230068B7F
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:7e3fdae9-8b1a-4b02-84bb-39777d50a2d8
+UID:df86a631-463a-4e2e-8ea4-888339e19be1
 SUMMARY:Igorrr
 DTSTART:20251022T183000
 DTEND:20251022T190000
@@ -682,7 +682,7 @@ URL:https://www.ticketmaster.co.uk/igorrr-london-22-10-2025/event/3E0068C814YH67
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:55ea4f14-ed10-4c8f-93a0-5d196e79fbb1
+UID:37c01748-2a66-4dc9-9350-76b95e49a44d
 SUMMARY:The Blow Monkeys
 DTSTART:20251023T190000
 DTEND:20251023T193000
@@ -692,7 +692,7 @@ URL:https://www.ticketmaster.co.uk/blow-monkeys-london-23-10-2025/event/350068D9
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:5d48366e-8c66-4392-bd1d-5eeaec8af2f7
+UID:53b5790c-d5d8-4bfb-89fd-fe05c653346e
 SUMMARY:Battle Beast
 DTSTART:20251024T183000
 DTEND:20251024T190000
@@ -702,7 +702,7 @@ URL:https://www.ticketmaster.co.uk/battle-beast-london-24-10-2025/event/230068EA
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d4d6f494-aa20-4391-aa0c-5f4e14e36f6f
+UID:9c331091-af90-470a-8e85-edfeaf00cfc1
 SUMMARY:Klangphonics
 DTSTART:20251025T190000
 DTEND:20251025T200000
@@ -712,7 +712,7 @@ URL:https://www.ticketmaster.co.uk/klangphonics-london-25-10-2025/event/350068FB
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c3f2186f-0916-4c76-9c36-9877205761ac
+UID:7ade8639-f08a-4b7e-9754-652b085bab25
 SUMMARY:Those Damn Crows
 DTSTART:20251031T183000
 DTEND:20251031T190000
@@ -722,7 +722,7 @@ URL:https://www.ticketmaster.co.uk/those-damn-crows-london-31-10-2025/event/3E00
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:07918627-462d-4e36-95bc-7db28563df02
+UID:be96b2ba-c3dd-44c8-b2cd-cceacc51086f
 SUMMARY:Tide Lines
 DTSTART:20251101T190000
 DTEND:20251101T200000
@@ -732,7 +732,7 @@ URL:https://www.ticketmaster.co.uk/tide-lines-london-01-11-2025/event/2300691D69
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a81464a8-ceb5-4307-9dc8-8e3acc3d2fb9
+UID:bc3d12d7-490d-4b9f-9604-fa6b46781ed2
 SUMMARY:Joey Valence & Brae
 DTSTART:20251104T190000
 DTEND:20251104T193000
@@ -742,7 +742,7 @@ URL:https://www.ticketmaster.co.uk/joey-valence-brae-london-04-11-2025/event/350
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:dd8d52b8-84bc-4f48-bfae-2701b3efd3c9
+UID:eee32723-7fc4-4199-849f-09d3352b85bf
 SUMMARY:Heaven 17
 DTSTART:20251106T190000
 DTEND:20251106T200000
@@ -752,7 +752,7 @@ URL:https://www.ticketmaster.co.uk/heaven-17-london-06-11-2025/event/2300693F8BF
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c4533ee0-18fa-4ff5-bc45-3f99b188e0c4
+UID:555d8a70-04b7-46f8-8095-45582376ca99
 SUMMARY:Remember Monday
 DTSTART:20251107T190000
 DTEND:20251107T200000
@@ -762,7 +762,7 @@ URL:https://www.ticketmaster.co.uk/remember-monday-london-07-11-2025/event/3E006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:6897a88b-b32e-481c-be1f-dfe9297210be
+UID:b2b3485e-1c18-4328-bb85-007fdcd28b0f
 SUMMARY:Reef
 DTSTART:20251108T190000
 DTEND:20251108T193000
@@ -772,7 +772,7 @@ URL:https://www.ticketmaster.co.uk/reef-london-08-11-2025/event/350069621AHQE0AK
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:d303f3bd-a7ee-45b3-bc7f-02719697852c
+UID:35041cb1-cff1-4f6a-bc0b-786aebf54304
 SUMMARY:Myslovitz
 DTSTART:20251109T190000
 DTEND:20251109T200000
@@ -782,7 +782,7 @@ URL:https://www.ticketmaster.co.uk/myslovitz-london-09-11-2025/event/230069732BI
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:60aefcd7-e539-49a6-b1c4-e2a4349638d7
+UID:ed9c12d8-e1ea-4b9f-8dda-0e5436d08b1c
 SUMMARY:Curtis Harding
 DTSTART:20251112T190000
 DTEND:20251112T200000
@@ -792,7 +792,7 @@ URL:https://www.ticketmaster.co.uk/curtis-harding-london-12-11-2025/event/350069
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:e52c13e9-be76-4c36-9a43-b7627bb1f760
+UID:053a1828-e526-4a99-a05e-b95cf041c70a
 SUMMARY:The Songs of Joni Mitchell
 DTSTART:20251113T190000
 DTEND:20251113T193000
@@ -802,7 +802,7 @@ URL:https://www.ticketmaster.co.uk/songs-of-joni-mitchell-london-13-11-2025/even
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:0d11f1ce-8c73-436c-bd66-47edaafc608d
+UID:0a7b49a5-68cf-4fe3-9a87-656c6783cff6
 SUMMARY:Levellers
 DTSTART:20251114T190000
 DTEND:20251114T193000
@@ -812,7 +812,7 @@ URL:https://www.ticketmaster.co.uk/levellers-london-14-11-2025/event/230069A65EL
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a1488f57-ccce-4e6b-8703-0b6d0215a439
+UID:57a1397d-d509-4397-90a2-cc97e980ea8f
 SUMMARY:Asia ft. John Payne
 DTSTART:20251116T190000
 DTEND:20251116T193000
@@ -822,7 +822,7 @@ URL:https://www.ticketmaster.co.uk/asia-john-payne-london-16-11-2025/event/3E006
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:709015aa-e2c9-4424-8acc-0241c0cf9b5c
+UID:4aced597-09a1-42b9-aebf-5562b160c127
 SUMMARY:The Fray
 DTSTART:20251118T190000
 DTEND:20251118T200000
@@ -832,7 +832,7 @@ URL:https://www.ticketmaster.co.uk/the-fray-london-18-11-2025/event/350069C87FMT
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:fe4b326a-30c7-44ae-9788-f36c00e287b8
+UID:b790c2d8-2611-4063-964b-b7c8c618b9dc
 SUMMARY:Tom McRae
 DTSTART:20251120T190000
 DTEND:20251120T200000
@@ -842,7 +842,7 @@ URL:https://www.ticketmaster.co.uk/tom-mcrae-london-20-11-2025/event/230069D98GN
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:5a691b72-7aed-4ea1-acb0-c2aa1bba70e7
+UID:73f23054-3476-44f4-9bb8-303468210673
 SUMMARY:Cast
 DTSTART:20251121T190000
 DTEND:20251121T193000
@@ -852,7 +852,7 @@ URL:https://www.ticketmaster.co.uk/cast-london-21-11-2025/event/3E0069EA9HOV57HR
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:cc8d3a05-e321-4117-95c1-80c32dc69f40
+UID:3e7de12e-edf5-4573-b345-b3eab2d54fdb
 SUMMARY:The Clone Roses
 DTSTART:20251122T190000
 DTEND:20251122T190000
@@ -862,7 +862,7 @@ URL:https://www.ticketmaster.co.uk/clone-roses-london-22-11-2025/event/350069FBA
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:2a956c47-85ed-4a94-b1f3-48cad9e7be14
+UID:b376b0e4-dc78-4992-b443-cd514a760792
 SUMMARY:Bad Nerves
 DTSTART:20251125T190000
 DTEND:20251125T200000
@@ -872,7 +872,7 @@ URL:https://www.ticketmaster.co.uk/bad-nerves-london-25-11-2025/event/23006A0CBI
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:78f10fa2-5a71-4ea6-92cb-fecca80fcd41
+UID:9be6387e-61fc-4b7c-ad41-8ccea9fa2ee6
 SUMMARY:Tors
 DTSTART:20251128T190000
 DTEND:20251128T200000
@@ -882,7 +882,7 @@ URL:https://www.ticketmaster.co.uk/tors-london-28-11-2025/event/3E006A1DCJKY8AKU
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:2035ecf9-1de7-422d-b299-b88a5a2201d5
+UID:135f7c46-cdcc-4689-b14b-10c1a3ca4564
 SUMMARY:Stone Foundation
 DTSTART:20251129T190000
 DTEND:20251129T200000
@@ -892,7 +892,7 @@ URL:https://www.ticketmaster.co.uk/stone-foundation-london-29-11-2025/event/3500
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:36a89b98-3407-4b60-902b-81e33526b851
+UID:7cc10ba8-41d3-48e8-965e-ec595c0eb2da
 SUMMARY:Sam Garrett
 DTSTART:20251201T190000
 DTEND:20251201T200000
@@ -902,7 +902,7 @@ URL:https://www.ticketmaster.co.uk/sam-garrett-london-01-12-2025/event/23006A4FE
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c0509017-b4a3-47bc-bdd3-d34dad294604
+UID:d1e9ea00-f83e-4894-9b78-8235151ff139
 SUMMARY:The Rasmus
 DTSTART:20251204T190000
 DTEND:20251204T200000
@@ -912,7 +912,7 @@ URL:https://www.ticketmaster.co.uk/the-rasmus-london-04-12-2025/event/3E006A60F2
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a6d73d77-6b14-48eb-a374-3b21b1431e4d
+UID:a322cf2b-f32f-4be0-85ab-cf7a1c07ce4d
 SUMMARY:Damage
 DTSTART:20251205T190000
 DTEND:20251205T193000
@@ -922,7 +922,7 @@ URL:https://www.ticketmaster.co.uk/damage-london-05-12-2025/event/35006A7203OCP2
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:c873430b-37ab-4406-8a7d-b1a52ecbbd59
+UID:6d13aa10-ffaa-4c01-800f-05f9ba2199da
 SUMMARY:The Undertones
 DTSTART:20251206T190000
 DTEND:20251206T193000
@@ -932,7 +932,7 @@ URL:https://www.ticketmaster.co.uk/the-undertones-london-06-12-2025/event/23006A
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:4c5deb91-466f-4878-8e7f-0f8bdf66ad53
+UID:b99afd7f-b7b9-43b0-94ad-750467304755
 SUMMARY:The Kiffness
 DTSTART:20251210T190000
 DTEND:20251210T200000
@@ -942,7 +942,7 @@ URL:https://www.ticketmaster.co.uk/the-kiffness-london-10-12-2025/event/3E006A94
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:b6492a1c-1802-4ebf-9d53-57ec811f9a0b
+UID:a828430f-79ac-4118-983e-392d2409e842
 SUMMARY:Inspiral Carpets
 DTSTART:20251211T190000
 DTEND:20251211T200000
@@ -952,7 +952,7 @@ URL:https://www.ticketmaster.co.uk/inspiral-carpets-london-11-12-2025/event/3500
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:1fdb1328-22e0-40c9-bfac-fe87cea79f6d
+UID:95bfd803-82dd-45be-9608-31fc4f13b09e
 SUMMARY:Stereo MC’s
 DTSTART:20251212T190000
 DTEND:20251212T200000
@@ -962,7 +962,7 @@ URL:https://www.ticketmaster.co.uk/stereo-mcs-london-12-12-2025/event/23006AB647
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:a3e53db7-41d5-4ecd-97d0-5500e2af49d9
+UID:62bbcb78-08c3-401c-9ba4-26ddbde8f9e1
 SUMMARY:Alabama 3
 DTSTART:20251213T190000
 DTEND:20251213T200000
@@ -972,7 +972,7 @@ URL:https://www.ticketmaster.co.uk/alabama-3-london-13-12-2025/event/3E006AC758T
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:da1e2595-3ad8-41f6-a7ae-47f1ee8f8387
+UID:5b3b7248-b053-4c10-baef-475b82f474cf
 SUMMARY:Slade
 DTSTART:20251217T190000
 DTEND:20251217T200000
@@ -982,7 +982,7 @@ URL:https://www.ticketmaster.co.uk/slade-london-17-12-2025/event/35006AD869UIV8T
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:82341e46-e6e3-4b62-8d24-44cda79fc700
+UID:5230867b-0dc7-4f7f-bd2b-3623036b9cdf
 SUMMARY:Kids In Glass Houses
 DTSTART:20251218T190000
 DTEND:20251218T200000
@@ -992,7 +992,7 @@ URL:https://www.ticketmaster.co.uk/kids-in-glass-houses-london-18-12-2025/event/
 CATEGORIES:master,shepherd’s bush
 END:VEVENT
 BEGIN:VEVENT
-UID:e307e57d-04a8-43b8-b80a-05d2d0bc0888
+UID:fa50e3d0-0854-4ad1-9188-d096e2df976a
 SUMMARY:The Wonder Stuff
 DTSTART:20251219T190000
 DTEND:20251219T200000
