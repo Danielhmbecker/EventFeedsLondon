@@ -39,8 +39,8 @@ def to_ics_event(event):
     return f"""BEGIN:VEVENT
 UID:{uid}
 SUMMARY:{event['title']}
-DTSTART:{dtstart.strftime("%Y%m%dT%H%M%S")}
-DTEND:{dtend.strftime("%Y%m%dT%H%M%S")}
+DTSTART:{dtstart.strftime("%Y%m%dT%H%M%SZ")}
+DTEND:{dtend.strftime("%Y%m%dT%H%M%SZ")}
 DESCRIPTION:{description}
 LOCATION:{event['venue']}
 URL:{event['ticket']}
