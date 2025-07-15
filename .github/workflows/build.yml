@@ -18,7 +18,7 @@ jobs:
           python-version: '3.11'
 
       - name: Run calendar builder
-        run: python scripts/calendar_builder.py
+        run: python calendar_builder.py
 
       - name: Commit and push
         run: |
