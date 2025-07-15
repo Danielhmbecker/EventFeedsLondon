@@ -1,6 +1,2 @@
-/output/ics/*
-  Content-Type: text/calendar
-  Cache-Control: no-store, no-cache, must-revalidate
-  Pragma: no-cache
-  Expires: 0
-  Access-Control-Allow-Origin: *
+/your-path-to-ics/*.ics
+  Cache-Control: public, max-age=5, immutable
