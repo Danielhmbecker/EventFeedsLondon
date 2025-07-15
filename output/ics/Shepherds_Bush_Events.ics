@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:f79b1043-2d87-43cc-a97c-82f416804c6b
+UID:bf356966-81d4-440b-b2c9-ab8521420982
 SUMMARY:Saint Motel
-DTSTART:20250918T180000
-DTEND:20250918T223000
+DTSTART:20250918T180000Z
+DTEND:20250918T223000Z
 DESCRIPTION:📍 Venue: O2 Shepherd's Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.ents24.com/o2-shepherds-bush-empire\nℹ️ Indie-pop band performance. Status: Available
 LOCATION:O2 Shepherd's Bush Empire
 URL:https://www.ents24.com/o2-shepherds-bush-empire
