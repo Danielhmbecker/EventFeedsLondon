@@ -1,2 +1,2 @@
-# YYYY-MM-DD | Event Title | Ticket Link | Area | Venue | Capacity | Doors Open (24h) | Event End Time (24h) | Description. Status: [Available / Sold Out / Limited Tickets / Few Tickets Left]
-2025-09-18 | Saint Motel | https://www.ents24.com/o2-shepherds-bush-empire | Shepherds_Bush | O2 Shepherd's Bush Empire | 2000 | 18:00 | 22:30 | Indie-pop band performance. Status: Available
+2025-08-01 | Indie Night at The Dome | https://tickets.example.com/indie-night | Camden | The Dome | 500 | 18:00 | 22:30 | Local indie bands takeover. Status: Available | Small stage, 2-for-1 beers before 19:00 | The Clockworks | 18:30 | 20:30
+2025-08-02 | Jazz by the Thames | https://tickets.example.com/jazz-thames | Southbank | Southbank Centre | 1200 | 19:00 | 23:00 | Smooth jazz riverside. Status: Limited Tickets | Open-air set if weather allows | Yazz Ahmed Quartet | 19:00 | 21:30
