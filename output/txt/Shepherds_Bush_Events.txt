@@ -1,1 +1,3 @@
-2025-09-18 | Saint Motel | https://www.ents24.com/o2-shepherds-bush-empire | Shepherds_Bush | O2 Shepherd's Bush Empire | 2000 | 18:00 | 22:30 | Indie-pop band performance. Status: Available
+2025-08-01 | Event #5 | https://tickets.example.com/event-5 | Shepherds_Bush | O2 Shepherd's Bush Empire | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-02 | Event #15 | https://tickets.example.com/event-15 | Shepherds_Bush | O2 Shepherd's Bush Empire | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-03 | Event #25 | https://tickets.example.com/event-25 | Shepherds_Bush | O2 Shepherd's Bush Empire | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00

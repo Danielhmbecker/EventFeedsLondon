@@ -2,13 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:bf356966-81d4-440b-b2c9-ab8521420982
-SUMMARY:Saint Motel
-DTSTART:20250918T180000Z
-DTEND:20250918T223000Z
-DESCRIPTION:📍 Venue: O2 Shepherd's Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.ents24.com/o2-shepherds-bush-empire\nℹ️ Indie-pop band performance. Status: Available
+UID:95dbd41e-74b8-4551-94aa-03dbb3af7c91
+SUMMARY:Event #5
+DTSTART:20250801T180000
+DTEND:20250801T223000
+DESCRIPTION:📍 Venue: O2 Shepherd's Bush Empire (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-5\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
 LOCATION:O2 Shepherd's Bush Empire
-URL:https://www.ents24.com/o2-shepherds-bush-empire
+URL:https://tickets.example.com/event-5
+CATEGORIES:master,shepherds_bush
+END:VEVENT
+BEGIN:VEVENT
+UID:bcd0c31e-7dd4-4e18-88e5-a9709672dece
+SUMMARY:Event #15
+DTSTART:20250802T180000
+DTEND:20250802T223000
+DESCRIPTION:📍 Venue: O2 Shepherd's Bush Empire (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-15\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
+LOCATION:O2 Shepherd's Bush Empire
+URL:https://tickets.example.com/event-15
+CATEGORIES:master,shepherds_bush
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca0dea9-687d-4dc2-b79e-f0152b8dcf09
+SUMMARY:Event #25
+DTSTART:20250803T180000
+DTEND:20250803T223000
+DESCRIPTION:📍 Venue: O2 Shepherd's Bush Empire (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-25\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
+LOCATION:O2 Shepherd's Bush Empire
+URL:https://tickets.example.com/event-25
 CATEGORIES:master,shepherds_bush
 END:VEVENT
 END:VCALENDAR

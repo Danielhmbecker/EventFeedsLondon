@@ -1,0 +1,3 @@
+2025-08-01 | Event #8 | https://tickets.example.com/event-8 | Islington | Union Chapel | 900 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-02 | Event #18 | https://tickets.example.com/event-18 | Islington | Union Chapel | 900 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-03 | Event #28 | https://tickets.example.com/event-28 | Islington | Union Chapel | 900 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00

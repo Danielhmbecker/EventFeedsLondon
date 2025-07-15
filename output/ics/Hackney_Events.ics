@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:EventCalendarGenerator
+BEGIN:VEVENT
+UID:6f91005a-354d-47c2-97eb-ad9ef147a9d4
+SUMMARY:Event #7
+DTSTART:20250801T180000
+DTEND:20250801T223000
+DESCRIPTION:📍 Venue: Hackney Empire (Capacity: 1000)\n🎟 Tickets: https://tickets.example.com/event-7\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 400 / 1000
+LOCATION:Hackney Empire
+URL:https://tickets.example.com/event-7
+CATEGORIES:master,hackney
+END:VEVENT
+BEGIN:VEVENT
+UID:a39fa293-21db-48f4-a7cb-3d8bf261f5f9
+SUMMARY:Event #17
+DTSTART:20250802T180000
+DTEND:20250802T223000
+DESCRIPTION:📍 Venue: Hackney Empire (Capacity: 1000)\n🎟 Tickets: https://tickets.example.com/event-17\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 400 / 1000
+LOCATION:Hackney Empire
+URL:https://tickets.example.com/event-17
+CATEGORIES:master,hackney
+END:VEVENT
+BEGIN:VEVENT
+UID:38f36b9e-9b7f-4158-982c-0019edc1176a
+SUMMARY:Event #27
+DTSTART:20250803T180000
+DTEND:20250803T223000
+DESCRIPTION:📍 Venue: Hackney Empire (Capacity: 1000)\n🎟 Tickets: https://tickets.example.com/event-27\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 400 / 1000
+LOCATION:Hackney Empire
+URL:https://tickets.example.com/event-27
+CATEGORIES:master,hackney
+END:VEVENT
+END:VCALENDAR

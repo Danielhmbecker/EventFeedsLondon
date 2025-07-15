@@ -1,0 +1,3 @@
+2025-08-01 | Event #4 | https://tickets.example.com/event-4 | Brixton | Brixton Academy | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-02 | Event #14 | https://tickets.example.com/event-14 | Brixton | Brixton Academy | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-03 | Event #24 | https://tickets.example.com/event-24 | Brixton | Brixton Academy | 2000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00

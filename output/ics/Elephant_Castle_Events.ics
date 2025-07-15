@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:EventCalendarGenerator
+BEGIN:VEVENT
+UID:ae50147d-2a3a-4067-a8ac-3d8ab1463d2f
+SUMMARY:Event #9
+DTSTART:20250801T180000
+DTEND:20250801T223000
+DESCRIPTION:📍 Venue: Electric Brixton (Capacity: 1800)\n🎟 Tickets: https://tickets.example.com/event-9\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 720 / 1800
+LOCATION:Electric Brixton
+URL:https://tickets.example.com/event-9
+CATEGORIES:master,elephant_castle
+END:VEVENT
+BEGIN:VEVENT
+UID:ac12ed45-5f76-42a9-91c6-7918bd56f81e
+SUMMARY:Event #19
+DTSTART:20250802T180000
+DTEND:20250802T223000
+DESCRIPTION:📍 Venue: Electric Brixton (Capacity: 1800)\n🎟 Tickets: https://tickets.example.com/event-19\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 720 / 1800
+LOCATION:Electric Brixton
+URL:https://tickets.example.com/event-19
+CATEGORIES:master,elephant_castle
+END:VEVENT
+BEGIN:VEVENT
+UID:e4d4f81d-af46-41b1-a681-a37950c53d54
+SUMMARY:Event #29
+DTSTART:20250803T180000
+DTEND:20250803T223000
+DESCRIPTION:📍 Venue: Electric Brixton (Capacity: 1800)\n🎟 Tickets: https://tickets.example.com/event-29\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 720 / 1800
+LOCATION:Electric Brixton
+URL:https://tickets.example.com/event-29
+CATEGORIES:master,elephant_castle
+END:VEVENT
+END:VCALENDAR

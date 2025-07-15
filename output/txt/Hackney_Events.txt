@@ -1,0 +1,3 @@
+2025-08-01 | Event #7 | https://tickets.example.com/event-7 | Hackney | Hackney Empire | 1000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-02 | Event #17 | https://tickets.example.com/event-17 | Hackney | Hackney Empire | 1000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-03 | Event #27 | https://tickets.example.com/event-27 | Hackney | Hackney Empire | 1000 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00

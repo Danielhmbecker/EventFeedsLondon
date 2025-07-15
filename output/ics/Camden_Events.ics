@@ -2,13 +2,33 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:eabc01e5-ac56-4ca5-9b21-36606640d75d
-SUMMARY:Indie Night at The Dome
+UID:3423df9c-41ab-42a1-a548-b2ec6832b213
+SUMMARY:Event #1
 DTSTART:20250801T180000
 DTEND:20250801T223000
-DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/indie-night\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Local indie bands takeover. Status: Available\n📝 Notes: Small stage, 2-for-1 beers before 19:00\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: The Clockworks\n⏰ Expected busy period: 18:30 to 20:30\n🎫 Est. Attendance: 200 / 500
+DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-1\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
 LOCATION:The Dome
-URL:https://tickets.example.com/indie-night
+URL:https://tickets.example.com/event-1
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:6df89057-d07f-4d98-b349-68fea345b9b2
+SUMMARY:Event #11
+DTSTART:20250802T180000
+DTEND:20250802T223000
+DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-11\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
+LOCATION:The Dome
+URL:https://tickets.example.com/event-11
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:09fcb9aa-2c3d-4e6d-a276-882f8213f5f8
+SUMMARY:Event #21
+DTSTART:20250803T180000
+DTEND:20250803T223000
+DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-21\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
+LOCATION:The Dome
+URL:https://tickets.example.com/event-21
 CATEGORIES:master,camden
 END:VEVENT
 END:VCALENDAR

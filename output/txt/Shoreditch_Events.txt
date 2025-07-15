@@ -1,0 +1,3 @@
+2025-08-01 | Event #3 | https://tickets.example.com/event-3 | Shoreditch | Village Underground | 800 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-02 | Event #13 | https://tickets.example.com/event-13 | Shoreditch | Village Underground | 800 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
+2025-08-03 | Event #23 | https://tickets.example.com/event-23 | Shoreditch | Village Underground | 800 | 18:00 | 22:30 | Sample event description. Status: Available | Notes here | First Act | 18:00 | 21:00
