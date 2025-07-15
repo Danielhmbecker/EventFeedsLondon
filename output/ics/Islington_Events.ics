@@ -2,33 +2,73 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:93e6a4e9-0514-4d25-a28c-fb5b0b5236f6
-SUMMARY:Event #8
-DTSTART:20250801T180000
-DTEND:20250801T223000
-DESCRIPTION:📍 Venue: Union Chapel (Capacity: 900)\n🎟 Tickets: https://tickets.example.com/event-8\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 360 / 900
-LOCATION:Union Chapel
-URL:https://tickets.example.com/event-8
+UID:eb06c5d9-304b-4ca7-8ea5-71d85f85eb27
+SUMMARY:Wolfmother
+DTSTART:20250728T190000
+DTEND:20250728T200000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.ticketmaster.co.uk/wolfmother-london-28-07-2025/event/1F005E9AC1234567\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Aussie hard rock trio riffs through their classic hits.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.ticketmaster.co.uk/wolfmother-london-28-07-2025/event/1F005E9AC1234567
 CATEGORIES:master,islington
 END:VEVENT
 BEGIN:VEVENT
-UID:c0f7b41a-d319-4a06-af0b-e9cc98484ccf
-SUMMARY:Event #18
-DTSTART:20250802T180000
-DTEND:20250802T223000
-DESCRIPTION:📍 Venue: Union Chapel (Capacity: 900)\n🎟 Tickets: https://tickets.example.com/event-18\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 360 / 900
-LOCATION:Union Chapel
-URL:https://tickets.example.com/event-18
+UID:e85b36b3-0026-4380-89e7-2ea8d6fb260d
+SUMMARY:The Linda Lindas
+DTSTART:20250821T190000
+DTEND:20250821T200000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.seetickets.com/event/the-linda-lindas/o2-academy-islington/3321123\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Teen punk sensations from LA hit the London stage.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.seetickets.com/event/the-linda-lindas/o2-academy-islington/3321123
 CATEGORIES:master,islington
 END:VEVENT
 BEGIN:VEVENT
-UID:274abe3e-2077-46a9-8f76-3bf6ab00ff7c
-SUMMARY:Event #28
-DTSTART:20250803T180000
-DTEND:20250803T223000
-DESCRIPTION:📍 Venue: Union Chapel (Capacity: 900)\n🎟 Tickets: https://tickets.example.com/event-28\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 360 / 900
-LOCATION:Union Chapel
-URL:https://tickets.example.com/event-28
+UID:2b5b2021-8875-41ad-add2-9bc35581b9ed
+SUMMARY:T.Rextasy (T. Rex Tribute)
+DTSTART:20250913T180000
+DTEND:20250913T190000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://thegigcartel.seetickets.com/event/t-rextasy/o2-academy-islington/3334456\n🔥 Status: N/A\nℹ️ 22:00\n📝 Notes: Tribute to Marc Bolan & T. Rex’s glam rock legacy.\n🚪 Doors Open: 18:00\n🚪 Doors Close: 19:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 19:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://thegigcartel.seetickets.com/event/t-rextasy/o2-academy-islington/3334456
+CATEGORIES:master,islington
+END:VEVENT
+BEGIN:VEVENT
+UID:e7414b17-153f-4b79-99a7-14fad820526e
+SUMMARY:The Doors Alive (Doors Tribute)
+DTSTART:20251003T190000
+DTEND:20251003T200000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.ticketmaster.co.uk/the-doors-alive-london-03-10-2025/event/1F006ABCDEF12345\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Tribute band recreates the psychedelic rock of The Doors.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.ticketmaster.co.uk/the-doors-alive-london-03-10-2025/event/1F006ABCDEF12345
+CATEGORIES:master,islington
+END:VEVENT
+BEGIN:VEVENT
+UID:92d5b452-8f25-4b0b-84c1-99ae2c378510
+SUMMARY:Drowning Pool + Spineshank + (hed) p.e.
+DTSTART:20251120T190000
+DTEND:20251120T193000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.seetickets.com/event/drowning-pool-spineshank-hed-p-e-/o2-academy-islington/3392345\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Triple-threat nu-metal night with Drowning Pool, Spineshank, and (hed) p.e.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 19:30\n🎤 First Act: Available\n⏰ Expected busy period: (hed) p.e. to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.seetickets.com/event/drowning-pool-spineshank-hed-p-e-/o2-academy-islington/3392345
+CATEGORIES:master,islington
+END:VEVENT
+BEGIN:VEVENT
+UID:2a6dd889-0fc0-4516-96c8-d46aa415b47a
+SUMMARY:Alessandra
+DTSTART:20251128T190000
+DTEND:20251128T200000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.seetickets.com/event/alessandra/o2-academy-islington/3394567\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Norwegian pop star and Eurovision finalist showcases her powerful vocals.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.seetickets.com/event/alessandra/o2-academy-islington/3394567
+CATEGORIES:master,islington
+END:VEVENT
+BEGIN:VEVENT
+UID:365e2d99-299d-45ad-b1e8-981ab4f3ca97
+SUMMARY:Empathy Test
+DTSTART:20251205T190000
+DTEND:20251205T200000
+DESCRIPTION:📍 Venue: O2 Academy Islington (Capacity: 800)\n🎟 Tickets: https://www.seetickets.com/event/empathy-test/o2-academy-islington/3395678\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: London synthpop duo delivers emotive electronic anthems.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 800
+LOCATION:O2 Academy Islington
+URL:https://www.seetickets.com/event/empathy-test/o2-academy-islington/3395678
 CATEGORIES:master,islington
 END:VEVENT
 END:VCALENDAR

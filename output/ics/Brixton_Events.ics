@@ -2,33 +2,113 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:0a486872-ff65-4be7-a800-ff258e856c5c
-SUMMARY:Event #4
-DTSTART:20250801T180000
-DTEND:20250801T223000
-DESCRIPTION:📍 Venue: Brixton Academy (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-4\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
-LOCATION:Brixton Academy
-URL:https://tickets.example.com/event-4
+UID:9340b9d8-7a39-4076-a69e-fe89c7200b75
+SUMMARY:Gareth Emery presents LSR/CITY
+DTSTART:20250906T190000
+DTEND:20250906T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.ticketmaster.co.uk/gareth-emery-lsrcity-london-06-09-2025/event/37005EACA7890123\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Trance DJ Gareth Emery’s immersive laser-music experience.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.ticketmaster.co.uk/gareth-emery-lsrcity-london-06-09-2025/event/37005EACA7890123
 CATEGORIES:master,brixton
 END:VEVENT
 BEGIN:VEVENT
-UID:5abaf2d8-133c-46fa-8bfb-29c59f3dcb71
-SUMMARY:Event #14
-DTSTART:20250802T180000
-DTEND:20250802T223000
-DESCRIPTION:📍 Venue: Brixton Academy (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-14\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
-LOCATION:Brixton Academy
-URL:https://tickets.example.com/event-14
+UID:f7bdbd10-8058-4990-9347-a18718898815
+SUMMARY:Cian Ducrot
+DTSTART:20250917T190000
+DTEND:20250917T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.ticketmaster.co.uk/cian-ducrot-london-17-09-2025/event/1F005EE4CDEF0123\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Irish singer-songwriter on his Dream Ship Tour.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Few Tickets Left\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.ticketmaster.co.uk/cian-ducrot-london-17-09-2025/event/1F005EE4CDEF0123
 CATEGORIES:master,brixton
 END:VEVENT
 BEGIN:VEVENT
-UID:2e557f45-b160-4db4-bc94-01041e70dc27
-SUMMARY:Event #24
-DTSTART:20250803T180000
-DTEND:20250803T223000
-DESCRIPTION:📍 Venue: Brixton Academy (Capacity: 2000)\n🎟 Tickets: https://tickets.example.com/event-24\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 800 / 2000
-LOCATION:Brixton Academy
-URL:https://tickets.example.com/event-24
+UID:ceeac13f-9181-4bc4-b5fe-6987efbd135b
+SUMMARY:Self Esteem
+DTSTART:20251010T190000
+DTEND:20251010T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.ticketmaster.co.uk/self-esteem-london-10-10-2025/event/37005EDCBA765432\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Critically acclaimed pop artist brings her empowering anthems.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Sold Out\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.ticketmaster.co.uk/self-esteem-london-10-10-2025/event/37005EDCBA765432
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac41055-011d-4d32-bdeb-edc73b2b9208
+SUMMARY:Coheed and Cambria: Welcome to Forever Tour
+DTSTART:20251021T190000
+DTEND:20251021T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412345/coheed-and-cambria-welcome-to-forever-tour/london/2025-10-21/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Prog-rock storytellers unleash an epic sci-fi concept set.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412345/coheed-and-cambria-welcome-to-forever-tour/london/2025-10-21/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:4b09c5c9-04eb-41b4-a5b9-92daa66de6bf
+SUMMARY:Claptone – The Masquerade
+DTSTART:20251024T210000
+DTEND:20251024T220000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412349/claptone-the-masquerade/london/2025-10-24/en\n🔥 Status: N/A\nℹ️ 02:00\n📝 Notes: Mysterious DJ Claptone hosts an immersive masquerade dance party.\n🚪 Doors Open: 21:00\n🚪 Doors Close: 22:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 23:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412349/claptone-the-masquerade/london/2025-10-24/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:b5dd2417-3dab-4174-b213-d6e6801488a8
+SUMMARY:Monolink (Live)
+DTSTART:20251101T210000
+DTEND:20251101T220000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412352/monolink-live/london/2025-11-01/en\n🔥 Status: N/A\nℹ️ 02:00\n📝 Notes: Electronic songwriter blends live vocals and guitar with deep beats.\n🚪 Doors Open: 21:00\n🚪 Doors Close: 22:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 23:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412352/monolink-live/london/2025-11-01/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:517a8f82-4204-4f79-9323-62649f0e897a
+SUMMARY:Loyle Carner
+DTSTART:20251102T190000
+DTEND:20251102T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412355/loyle-carner/london/2025-11-02/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Acclaimed UK hip-hop artist brings heartfelt lyricism to the stage.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Sold Out\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412355/loyle-carner/london/2025-11-02/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:3464ef11-4453-4309-8b3b-8cb337b22bf0
+SUMMARY:Kae Tempest
+DTSTART:20251108T190000
+DTEND:20251108T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412358/kae-tempest/london/2025-11-08/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Renowned poet-rapper delivers powerful spoken-word and musical storytelling.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412358/kae-tempest/london/2025-11-08/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:e200e3a8-d3f8-4e4a-b7a5-66ce834ff0aa
+SUMMARY:Malevolence
+DTSTART:20251109T190000
+DTEND:20251109T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412360/malevolence-where-only-the-truth-is-spoken-tour/london/2025-11-09/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Sheffield metalcore heavyweights on their “Where Only The Truth Is Spoken” tour.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412360/malevolence-where-only-the-truth-is-spoken-tour/london/2025-11-09/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:8d8ace6a-2799-499e-a33c-f60da2769359
+SUMMARY:Above & Beyond
+DTSTART:20251113T190000
+DTEND:20251113T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412363/above-beyond/london/2025-11-13/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Celebrated trance trio present an uplifting Group Therapy live show.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412363/above-beyond/london/2025-11-13/en
+CATEGORIES:master,brixton
+END:VEVENT
+BEGIN:VEVENT
+UID:4c09cbff-5452-45a7-8fc7-04f2dadac3e2
+SUMMARY:Joy Crookes
+DTSTART:20251118T190000
+DTEND:20251118T200000
+DESCRIPTION:📍 Venue: O2 Academy Brixton (Capacity: 5000)\n🎟 Tickets: https://www.livenation.co.uk/show/1412366/joy-crookes-juniper-tour-2025/london/2025-11-18/en\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Soulful South London singer’s triumphant hometown show on her Juniper Tour.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Sold Out\n⏰ Expected busy period: N/A to 20:30\n🎫 Est. Attendance: 0 / 5000
+LOCATION:O2 Academy Brixton
+URL:https://www.livenation.co.uk/show/1412366/joy-crookes-juniper-tour-2025/london/2025-11-18/en
 CATEGORIES:master,brixton
 END:VEVENT
 END:VCALENDAR

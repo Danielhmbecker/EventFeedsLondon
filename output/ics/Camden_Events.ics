@@ -2,33 +2,203 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:3423df9c-41ab-42a1-a548-b2ec6832b213
-SUMMARY:Event #1
-DTSTART:20250801T180000
-DTEND:20250801T223000
-DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-1\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
-LOCATION:The Dome
-URL:https://tickets.example.com/event-1
+UID:afa4e448-61ae-449f-86ce-a3479e142a00
+SUMMARY:Youssou N’Dour
+DTSTART:20250717T190000
+DTEND:20250717T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.skiddle.com/whats-on/London/Roundhouse/Youssou-NDour/40868903/\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Senegalese music legend live in Camden.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: DJ John Armstrong to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.skiddle.com/whats-on/London/Roundhouse/Youssou-NDour/40868903/
 CATEGORIES:master,camden
 END:VEVENT
 BEGIN:VEVENT
-UID:6df89057-d07f-4d98-b349-68fea345b9b2
-SUMMARY:Event #11
-DTSTART:20250802T180000
-DTEND:20250802T223000
-DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-11\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
-LOCATION:The Dome
-URL:https://tickets.example.com/event-11
+UID:4b3f1535-ecfe-4df5-bfbf-32b80f0c966a
+SUMMARY:Peter Cat Recording Co.
+DTSTART:20250718T190000
+DTEND:20250718T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.axs.com/events/481942/peter-cat-recording-co-tickets\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Indian indie-fusion band brings eclectic sounds.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.axs.com/events/481942/peter-cat-recording-co-tickets
 CATEGORIES:master,camden
 END:VEVENT
 BEGIN:VEVENT
-UID:09fcb9aa-2c3d-4e6d-a276-882f8213f5f8
-SUMMARY:Event #21
-DTSTART:20250803T180000
-DTEND:20250803T223000
-DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/event-21\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 200 / 500
-LOCATION:The Dome
-URL:https://tickets.example.com/event-21
+UID:d613b283-1865-45de-a8de-13f993d4929c
+SUMMARY:Melvins + Redd Kross
+DTSTART:20250812T190000
+DTEND:20250812T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/melvins/the-electric-ballroom/3351411\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Sludge-rock pioneers Melvins with special guests Redd Kross.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: Redd Kross to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/melvins/the-electric-ballroom/3351411
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:fac081fe-31a9-4da9-8a47-298aa961a17b
+SUMMARY:The Lemonheads
+DTSTART:20250828T190000
+DTEND:20250828T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/the-lemonheads/electric-ballroom/3312345\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Evan Dando and co. deliver classic alt-rock anthems.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/the-lemonheads/electric-ballroom/3312345
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:08eef94d-50ce-4dfa-bfe1-efb0b135c0bb
+SUMMARY:An Evening with Damiano David
+DTSTART:20250928T190000
+DTEND:20250928T193000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.roundhouse.org.uk/whats-on/2025/an-evening-with-damiano-david/\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Måneskin’s frontman steps into the solo spotlight.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 19:30\n🎤 First Act: Sold Out\n⏰ Expected busy period: N/A to 20:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.roundhouse.org.uk/whats-on/2025/an-evening-with-damiano-david/
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:a9fd8307-bb02-4f55-8bda-4a390dbe97dc
+SUMMARY:The Stranglers + Buzzcocks
+DTSTART:20251031T190000
+DTEND:20251031T193000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/the-stranglers-buzzcocks/roundhouse/3356789\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Two punk legends unite to deliver an unforgettable night of hits.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 19:30\n🎤 First Act: Available\n⏰ Expected busy period: Buzzcocks to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/the-stranglers-buzzcocks/roundhouse/3356789
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:3c50b1ef-69f0-42f9-a646-34a9214537b7
+SUMMARY:Gogol Bordello
+DTSTART:20251031T190000
+DTEND:20251031T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/gogol-bordello/electric-ballroom/3367890\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Wild gypsy-punk extravaganza to celebrate Halloween.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/gogol-bordello/electric-ballroom/3367890
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:c0beb582-90ec-4997-b231-896de26e576e
+SUMMARY:Adam Ant
+DTSTART:20251102T190000
+DTEND:20251102T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/adam-ant/roundhouse/3378901\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: 80s New Wave icon performs his classics and fan favorites.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/adam-ant/roundhouse/3378901
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:53a3b1d4-06ae-4f33-b8fa-d33ebff3f25d
+SUMMARY:Perfume Genius
+DTSTART:20251111T190000
+DTEND:20251111T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/perfume-genius/roundhouse/3390123\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Indie art-pop auteur performs an emotive and theatrical set.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/perfume-genius/roundhouse/3390123
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:6f6f1819-a684-427e-9d89-9542926a576d
+SUMMARY:Turin Brakes
+DTSTART:20251115T190000
+DTEND:20251115T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/turin-brakes/o2-academy-islington/3391234\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: London folk-rockers return with an evening of melodic indie tunes (w/ Tom Speight).\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: Tom Speight to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/turin-brakes/o2-academy-islington/3391234
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:1d624efb-28f2-47c5-a484-d0b1f1cc06f2
+SUMMARY:The Charlatans
+DTSTART:20251210T190000
+DTEND:20251210T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/the-charlatans/roundhouse/3396789\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Iconic British rock band performs hits spanning their decades-long career.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/the-charlatans/roundhouse/3396789
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:387159ca-c522-476e-83c7-02712591d33e
+SUMMARY:Clutch
+DTSTART:20251220T190000
+DTEND:20251220T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/clutch/roundhouse/3397890\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: American rockers bring groove-laden hard rock to Camden.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/clutch/roundhouse/3397890
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:989da061-5c3c-4a02-b3a0-0440b6236fe2
+SUMMARY:Skids + Richard Jobson
+DTSTART:20260130T190000
+DTEND:20260130T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/skids/o2-academy-islington/3408901\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Scottish punk legends (“Into the Valley”) with frontman Richard Jobson back on stage.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/skids/o2-academy-islington/3408901
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:05cf6bcb-ce2e-454c-83bb-d5f027d5f3f1
+SUMMARY:White Lies
+DTSTART:20260131T190000
+DTEND:20260131T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://dice.fm/event/white-lies-31st-jan-roundhouse-london-tickets\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Post-punk indie favorites perform a set of dark, soaring tracks.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://dice.fm/event/white-lies-31st-jan-roundhouse-london-tickets
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:141d6c90-300b-42f2-b3d0-dd25f495b88b
+SUMMARY:Durand Jones & The Indications
+DTSTART:20260212T190000
+DTEND:20260212T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://www.seetickets.com/event/durand-jones-the-indications/roundhouse/3419012\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Retro-soul band brings smooth harmonies and vintage vibes.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://www.seetickets.com/event/durand-jones-the-indications/roundhouse/3419012
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:43cec682-a56a-4cd8-b920-6a54131a69c1
+SUMMARY:Fozzy + Tailgunner + Marisa and the Moths
+DTSTART:20260220T190000
+DTEND:20260220T193000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/fozzy/electric-ballroom/3420123\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Wrestling star Chris Jericho’s heavy metal band rocks the stage (with support acts).\n🚪 Doors Open: 19:00\n🚪 Doors Close: 19:30\n🎤 First Act: Available\n⏰ Expected busy period: Tailgunner to 20:30\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/fozzy/electric-ballroom/3420123
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:be597735-f12e-41f6-a149-70b578d2b730
+SUMMARY:Kate Nash
+DTSTART:20260319T190000
+DTEND:20260319T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://dice.fm/event/kate-nash-19th-mar-roundhouse-london-tickets\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Beloved singer-songwriter performs infectious indie-pop hits and new material.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://dice.fm/event/kate-nash-19th-mar-roundhouse-london-tickets
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:f0f82e77-8ca1-4474-9fd1-0f5f2a380e13
+SUMMARY:Half Man Half Biscuit
+DTSTART:20260417T190000
+DTEND:20260417T200000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/half-man-half-biscuit/electric-ballroom/3431234\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Cult indie band delivers sardonic, witty rock tunes to devoted fans.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/half-man-half-biscuit/electric-ballroom/3431234
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:bc246d5e-ffe3-4601-a310-d415faec2b05
+SUMMARY:Ye Vagabonds
+DTSTART:20260611T190000
+DTEND:20260611T200000
+DESCRIPTION:📍 Venue: Roundhouse (Capacity: 3300)\n🎟 Tickets: https://dice.fm/event/ye-vagabonds-11th-jun-roundhouse-london-tickets\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Acclaimed Irish folk duo weaves rich harmonies and storytelling songs.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 3300
+LOCATION:Roundhouse
+URL:https://dice.fm/event/ye-vagabonds-11th-jun-roundhouse-london-tickets
+CATEGORIES:master,camden
+END:VEVENT
+BEGIN:VEVENT
+UID:ba5acc28-02f5-475e-9bac-a1944df47811
+SUMMARY:Indiepalooza (Indie Tribute Festival)
+DTSTART:20260613T180000
+DTEND:20260613T183000
+DESCRIPTION:📍 Venue: Electric Ballroom (Capacity: 1500)\n🎟 Tickets: https://www.seetickets.com/event/indiepalooza/electric-ballroom/3442345\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Tribute acts celebrate indie rock icons (Killers, Oasis, Arctic Monkeys, etc).\n🚪 Doors Open: 18:00\n🚪 Doors Close: 18:30\n🎤 First Act: Available\n⏰ Expected busy period: The Kopycat Killers to 20:00\n🎫 Est. Attendance: 0 / 1500
+LOCATION:Electric Ballroom
+URL:https://www.seetickets.com/event/indiepalooza/electric-ballroom/3442345
 CATEGORIES:master,camden
 END:VEVENT
 END:VCALENDAR

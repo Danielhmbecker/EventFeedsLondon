@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:EventCalendarGenerator
+BEGIN:VEVENT
+UID:5d582100-d00b-4771-a7e1-effcc35b7e3a
+SUMMARY:Igorrr
+DTSTART:20251022T190000
+DTEND:20251022T200000
+DESCRIPTION:📍 Venue: O2 Shepherd’s Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.seetickets.com/event/igorrr/o2-shepherds-bush-empire/3345678\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Avant-garde French metal meets breakcore in a mind-bending show.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 2000
+LOCATION:O2 Shepherd’s Bush Empire
+URL:https://www.seetickets.com/event/igorrr/o2-shepherds-bush-empire/3345678
+CATEGORIES:master,shepherds bush
+END:VEVENT
+BEGIN:VEVENT
+UID:533b8f93-0785-4517-bad9-1524ae65265f
+SUMMARY:Heaven 17
+DTSTART:20251106T190000
+DTEND:20251106T200000
+DESCRIPTION:📍 Venue: O2 Shepherd’s Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.seetickets.com/event/heaven-17/o2-shepherds-bush-empire/3389012\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: 80s synth-pop pioneers perform their hits like “Temptation.”\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 2000
+LOCATION:O2 Shepherd’s Bush Empire
+URL:https://www.seetickets.com/event/heaven-17/o2-shepherds-bush-empire/3389012
+CATEGORIES:master,shepherds bush
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e82f9a-5a37-44d5-b786-34387e40173f
+SUMMARY:Cast (30 Years of ‘All Change’)
+DTSTART:20251121T190000
+DTEND:20251121T200000
+DESCRIPTION:📍 Venue: O2 Shepherd’s Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.seetickets.com/event/cast-30-years-of-all-change-/o2-shepherds-bush-empire/3393456\n🔥 Status: N/A\nℹ️ 23:00\n📝 Notes: Britpop band celebrates the 30th anniversary of their debut album “All Change.”\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 2000
+LOCATION:O2 Shepherd’s Bush Empire
+URL:https://www.seetickets.com/event/cast-30-years-of-all-change-/o2-shepherds-bush-empire/3393456
+CATEGORIES:master,shepherds bush
+END:VEVENT
+BEGIN:VEVENT
+UID:cbe00b63-44ab-4ca1-8187-08e6d6b91c59
+SUMMARY:The Undertones + The Frank & Walters
+DTSTART:20251206T190000
+DTEND:20251206T200000
+DESCRIPTION:📍 Venue: O2 Shepherd’s Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.ticketmaster.co.uk/the-undertones-the-frank-walters-london-06-12-2025/event/1F006C89ABCDEF01\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Irish punk/new-wave legends celebrate 45 years (special guests The Frank & Walters).\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: The Frank & Walters to 20:30\n🎫 Est. Attendance: 0 / 2000
+LOCATION:O2 Shepherd’s Bush Empire
+URL:https://www.ticketmaster.co.uk/the-undertones-the-frank-walters-london-06-12-2025/event/1F006C89ABCDEF01
+CATEGORIES:master,shepherds bush
+END:VEVENT
+BEGIN:VEVENT
+UID:8fbf7c2e-c110-434c-8866-81aad04d48e6
+SUMMARY:Inspiral Carpets
+DTSTART:20251211T190000
+DTEND:20251211T200000
+DESCRIPTION:📍 Venue: O2 Shepherd’s Bush Empire (Capacity: 2000)\n🎟 Tickets: https://www.ticketmaster.co.uk/inspiral-carpets-london-11-12-2025/event/1F006D9ABCDE0124\n🔥 Status: N/A\nℹ️ 22:30\n📝 Notes: Madchester veterans reunite to play baggy anthems and fan favorites.\n🚪 Doors Open: 19:00\n🚪 Doors Close: 20:00\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 21:00\n🎫 Est. Attendance: 0 / 2000
+LOCATION:O2 Shepherd’s Bush Empire
+URL:https://www.ticketmaster.co.uk/inspiral-carpets-london-11-12-2025/event/1F006D9ABCDE0124
+CATEGORIES:master,shepherds bush
+END:VEVENT
+END:VCALENDAR

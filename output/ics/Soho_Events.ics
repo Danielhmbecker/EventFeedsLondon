@@ -2,33 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:a3a047e8-9223-4520-b358-c7bbaf107fd4
-SUMMARY:Event #10
-DTSTART:20250801T180000
-DTEND:20250801T223000
-DESCRIPTION:📍 Venue: Ronnie Scott’s Jazz Club (Capacity: 400)\n🎟 Tickets: https://tickets.example.com/event-10\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 160 / 400
+UID:73320936-0fec-4727-a6ec-c6784718dd4b
+SUMMARY:Aloe Blacc
+DTSTART:20250715T184500
+DTEND:20250715T193000
+DESCRIPTION:📍 Venue: Ronnie Scott’s Jazz Club (Capacity: 220)\n🎟 Tickets: https://www.ronniescotts.co.uk/performances/view/XYZ123\n🔥 Status: N/A\nℹ️ 22:00\n📝 Notes: Soulful singer Aloe Blacc performs an intimate jazz club set.\n🚪 Doors Open: 18:45\n🚪 Doors Close: 19:30\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 20:00\n🎫 Est. Attendance: 0 / 220
 LOCATION:Ronnie Scott’s Jazz Club
-URL:https://tickets.example.com/event-10
-CATEGORIES:master,soho
-END:VEVENT
-BEGIN:VEVENT
-UID:5ffc1755-32c4-4e1a-b24c-2f167b0a1f49
-SUMMARY:Event #20
-DTSTART:20250802T180000
-DTEND:20250802T223000
-DESCRIPTION:📍 Venue: Ronnie Scott’s Jazz Club (Capacity: 400)\n🎟 Tickets: https://tickets.example.com/event-20\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 160 / 400
-LOCATION:Ronnie Scott’s Jazz Club
-URL:https://tickets.example.com/event-20
-CATEGORIES:master,soho
-END:VEVENT
-BEGIN:VEVENT
-UID:c0f891c5-beeb-40b0-90f0-208e3f193f04
-SUMMARY:Event #30
-DTSTART:20250803T180000
-DTEND:20250803T223000
-DESCRIPTION:📍 Venue: Ronnie Scott’s Jazz Club (Capacity: 400)\n🎟 Tickets: https://tickets.example.com/event-30\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Sample event description. Status: Available\n📝 Notes: Notes here\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: First Act\n⏰ Expected busy period: 18:00 to 21:00\n🎫 Est. Attendance: 160 / 400
-LOCATION:Ronnie Scott’s Jazz Club
-URL:https://tickets.example.com/event-30
+URL:https://www.ronniescotts.co.uk/performances/view/XYZ123
 CATEGORIES:master,soho
 END:VEVENT
 END:VCALENDAR

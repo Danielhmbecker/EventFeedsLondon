@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:EventCalendarGenerator
+BEGIN:VEVENT
+UID:e5ed76e8-d1d7-47f7-bba0-b4742b18856c
+SUMMARY:Milkshake: London’s Biggest Student Night
+DTSTART:20250722T220000
+DTEND:20250722T223000
+DESCRIPTION:📍 Venue: Ministry Of Sound (Capacity: 1550)\n🎟 Tickets: https://www.skiddle.com/whats-on/London/Ministry-Of-Sound/Milkshake-Ministry-Of-Sound-Summer-UV-Rave/41156926/\n🔥 Status: N/A\nℹ️ 04:00\n📝 Notes: Weekly student rave with multi-room DJs, UV lights and drink deals.\n🚪 Doors Open: 22:00\n🚪 Doors Close: 22:30\n🎤 First Act: Available\n⏰ Expected busy period: N/A to 00:00\n🎫 Est. Attendance: 0 / 1550
+LOCATION:Ministry Of Sound
+URL:https://www.skiddle.com/whats-on/London/Ministry-Of-Sound/Milkshake-Ministry-Of-Sound-Summer-UV-Rave/41156926/
+CATEGORIES:master,elephant & castle
+END:VEVENT
+END:VCALENDAR
