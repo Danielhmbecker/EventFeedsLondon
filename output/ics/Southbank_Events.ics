@@ -2,17 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:EventCalendarGenerator
 BEGIN:VEVENT
-UID:929f6528-55ae-4a75-89f0-77a37716f1f0
-SUMMARY:Indie Night at The Dome
-DTSTART:20250801T180000
-DTEND:20250801T223000
-DESCRIPTION:📍 Venue: The Dome (Capacity: 500)\n🎟 Tickets: https://tickets.example.com/indie-night\n🟢 Tickets available — Chill vibes, no stress on prep.\nℹ️ Local indie bands takeover. Status: Available\n📝 Notes: Small stage, 2-for-1 beers before 19:00\n🚪 Doors Open: 18:00\n🚪 Doors Close: 22:30\n🎤 First Act: The Clockworks\n⏰ Expected busy period: 18:30 to 20:30\n🎫 Est. Attendance: 200 / 500
-LOCATION:The Dome
-URL:https://tickets.example.com/indie-night
-CATEGORIES:master,camden
-END:VEVENT
-BEGIN:VEVENT
-UID:e284d4a6-0b6b-4bfd-864c-26b8d946d57e
+UID:7aae5351-442c-46a5-9b98-3610014601fa
 SUMMARY:Jazz by the Thames
 DTSTART:20250802T190000
 DTEND:20250802T230000
